@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_fron_terst/static/css/main.353d377d.css",
+    "main.js": "/react_fron_terst/static/js/main.b936b582.js",
+    "index.html": "/react_fron_terst/index.html",
+    "main.353d377d.css.map": "/react_fron_terst/static/css/main.353d377d.css.map",
+    "main.b936b582.js.map": "/react_fron_terst/static/js/main.b936b582.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.353d377d.css",
+    "static/js/main.b936b582.js"
+  ]
+}
